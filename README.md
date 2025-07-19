@@ -30,29 +30,20 @@ Hosting: Render / Vercel / Netlify
 ⚙️ Installation & Setup
 Clone the Repository
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/grocery-web-app.git
 cd grocery-web-app
+
 Install Dependencies
 
-bash
-Copy
-Edit
 npm install
 cd client
 npm install
+
 Set Environment Variables
 
-Create a .env file in the root:
-
-ini
-Copy
-Edit
 MONGO_URL=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-Start the App
+
 
 For server:
 
@@ -60,6 +51,7 @@ bash
 Copy
 Edit
 npm start
+
 For client:
 
 bash
