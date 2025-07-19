@@ -42,25 +42,25 @@ git clone https://github.com/your-username/grocery-web-app.git
 cd grocery-web-app
 
 
-Install Dependencies
+##Install Dependencies
 
 npm install
 
 
-Set Environment Variables
+##Set Environment Variables
 
 MONGO_URL=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
 
-For server:
+##For server:
 
 bash
 Copy
 Edit
 npm start
 
-For client:
+##For client:
 
 bash
 Copy
@@ -68,7 +68,7 @@ Edit
 cd client
 npm start
 
-📁 Project Drive
+##📁 Project Drive
 🔗  https://drive.google.com/drive/folders/1EkB0IcPwO5bRIb5MEqyL1gCnBAx54mvO
 
 
