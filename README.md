@@ -27,17 +27,25 @@ Authentication: JWT (JSON Web Tokens)
 
 Hosting: Render / Vercel / Netlify
 
-⚙️ Installation & Setup
-Clone the Repository
+# 🛒 Grocery Web App
 
+A full-stack grocery shopping web application where users can browse items, add them to a cart, and place orders online. Designed for smooth user experience and efficient store management.
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+
+```bash
 git clone https://github.com/your-username/grocery-web-app.git
 cd grocery-web-app
+
 
 Install Dependencies
 
 npm install
-cd client
-npm install
+
 
 Set Environment Variables
 
